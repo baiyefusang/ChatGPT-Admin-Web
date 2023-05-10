@@ -6,8 +6,8 @@ import { Analytics } from "@vercel/analytics/react";
 import { AuthProvider } from "@/app/provider";
 
 export const metadata = {
-  title: "ChatGPT",
-  description: "Your personal ChatGPT Bot.",
+  title: "抖动课堂",
+  description: "Your personal 抖动课堂 Bot.",
 };
 
 export default function RootLayout({
